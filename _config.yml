@@ -2,12 +2,12 @@
 
 title: David B. Stern research
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: images/david-bookshelf.jpg
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: David B. Stern
-  avatar: bio-photo.jpg
+  avatar: images/david-bookshelf.jpg
   bio: "Evolution, genetics, bioinformatics"
   email: dstern7760@gmail.com
   # Do not include the @ symbol in your Twitter username
