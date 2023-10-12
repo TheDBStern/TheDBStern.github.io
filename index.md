@@ -9,6 +9,12 @@ Formerly, I was a Computational Biologist with the [Bioinformatics and Computati
 
 ![manhattan plot](/images/draft_manhattan_plot.jpg)
 
-My graduate and postdoctoral research studied parallel and convergent evolution to understand evolutionary and genetic mechanisms producing the diversity of traits and species we observe in nature. By focusing on replicated evolutionary events, one can find general answers to biological questions, increase power to detect important patterns, and assess the predictability of evolutionary change. Studying natural, laboratory, and simulated populations, I used a combination of population and comparative genomic tools to answer questions about evolutionary genetic processes producing phenotypic and molecular diversity. I often used phylogenetic frameworks to detect convergent evolution at various levels and test evolutionary hypothesis using phylogenetic models.
+Convergent and parallel evolution has long fascinated biologists, and is seen as some of the strongest evidence for the power of natural selection. Yet little attention has been paid to understanding mechanisms that could promote repeated evolution. Understanding the evolutionary genomic mechanisms underlying repeated evloution could enable effective prediction of evolution in the face of changing environments and ongoing disease outbreaks. 
+
+My research seeks to identify evolutionary genetic mechanisms promoting parallel and convergent evolution, applying comparative and population genomic tools. Examples include -
+* Relaxed selection on gene expression underlying convergent vision loss in cave crayfishes
+* Balancing selection promoting parallel adaptation to fresh water in invasive copepods
+* Synergistic epistasis promoting parallel evolution in response to declining salinity
+* Horizontal gene transfer underlying toxin production in divergent cyanobacteria lineages
 
 
